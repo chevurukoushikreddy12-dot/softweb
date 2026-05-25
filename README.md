@@ -28,6 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+## index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -194,6 +195,10 @@ Publish the website in the given URL.
 
 </body>
 </html>
+```
+## menu.html
+```
+
 
 <!DOCTYPE html>
 <html>
@@ -366,6 +371,9 @@ Publish the website in the given URL.
 
 </body>
 </html>
+```
+## administration.html
+```
 
 <!DOCTYPE html>
 <html>
@@ -501,6 +509,9 @@ Publish the website in the given URL.
 
 </body>
 </html>
+```
+## contact.html
+```
 
 !DOCTYPE html>
 <html><
